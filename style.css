@@ -192,10 +192,13 @@ blockquote {
     margin-left: 0;
   }
   .star-container img {
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 30px;
     margin-right: 0.5rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
   }
+
   .article {
     flex-direction: column;
     align-items: center;
